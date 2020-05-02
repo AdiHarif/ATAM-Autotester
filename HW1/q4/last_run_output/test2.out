@@ -1,0 +1,13 @@
+head: .quad A
+A: .quad 1
+ .quad E
+B: .quad 2
+ .quad F
+C: .quad 3
+ .quad D
+D: .quad 4
+ .quad B
+E: .quad 5
+ .quad C
+F: .quad 6
+ .quad NULL
