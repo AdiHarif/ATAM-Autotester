@@ -27,6 +27,8 @@ input files format:
 output files format:
 * variable-declerations
 
+
+important notes:
 * <variable-declerations> is in the same format as declaring variables in gas, for example - a: .int 42
 * the only variable types currently supported are .ascii, .int, .quad
 * the only numeric base currently supported for variables is decimal 
