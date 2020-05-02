@@ -16,15 +16,16 @@ to add your tests to the repo, please push your files to "test-adding" branch wi
 each question has its own directory, just put your files there.
 
 input files format:
-    .section .data
-    AAT_input:
-    <variable-declerations>
-    AAT_out:
-    <variable-declerations>
-    AAT_io_end:
+
+* .section .data
+* AAT_input:
+* variable-declerations
+* AAT_out:
+* variable-declerations
+* AAT_io_end:
 
 output files format:
-    <variable-declerations>
+* variable-declerations
 
 * <variable-declerations> is in the same format as declaring variables in gas, for example - a: .int 42
 * the only variable types currently supported are .ascii, .int, .quad
