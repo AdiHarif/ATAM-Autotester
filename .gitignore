@@ -1,3 +1,3 @@
 q*.asm
 test.*
-**/last_run_output/*
+**/last_run_output/test*
