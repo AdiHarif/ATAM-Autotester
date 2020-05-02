@@ -1,0 +1,5 @@
+head: .quad B
+A: .quad 1
+ .quad NULL
+B: .quad 3
+ .quad A

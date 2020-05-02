@@ -1,0 +1,8 @@
+.section .data
+AAT_in:
+a: .int 1
+b: .int 1
+AAT_out:
+d: .int 0
+r: .int 0
+AAT_io_end:

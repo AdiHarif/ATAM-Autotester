@@ -1,0 +1,11 @@
+.section .data
+AAT_in:
+src: .quad 1
+dst: .quad 3
+AAT_out:
+head: .quad A
+A:  .quad 1
+    .quad B
+B:  .quad 3
+    .quad NULL
+AAT_io_end:

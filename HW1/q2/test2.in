@@ -1,0 +1,7 @@
+.section .data
+AAT_in:
+num : .int 16
+source: .int 1, 2
+AAT_out:
+destination: .int 3, 4, 0, 0
+AAT_io_end:

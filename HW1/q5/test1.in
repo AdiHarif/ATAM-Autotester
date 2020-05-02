@@ -1,0 +1,7 @@
+.section .data
+AAT_in:
+a: .quad 16
+b: .quad 22
+AAT_out:
+c: .quad 0
+AAT_io_end:
